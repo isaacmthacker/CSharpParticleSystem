@@ -1,0 +1,11 @@
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\bin\Release\Fire.exe.config
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\bin\Release\Fire.exe
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\bin\Release\Fire.pdb
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\obj\Release\Fire.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\obj\Release\Fire.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\obj\Release\Fire.DrawingThreadManager.resources
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\obj\Release\Fire.Properties.Resources.resources
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\obj\Release\Fire.csproj.GenerateResource.cache
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\obj\Release\Fire.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\obj\Release\Fire.exe
+C:\Users\isaac\Desktop\C#\Windows Forms\Fire\Fire\obj\Release\Fire.pdb
